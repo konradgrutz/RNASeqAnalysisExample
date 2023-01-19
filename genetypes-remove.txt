@@ -1,0 +1,1 @@
+exclude: rRNA Mt_rRNA
